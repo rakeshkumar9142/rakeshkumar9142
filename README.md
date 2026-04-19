@@ -1,30 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Rakesh%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=180&section=header&text=Rakesh%20Kumar&fontSize=40&fontColor=F97316&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+in+Progress;Designing+Scalable+Systems;Cloud+%7C+APIs+%7C+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F97316&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+System+Builder;Designing+Scalable+APIs;Focused+on+Performance+%26+Architecture" />
 </p>
 
 ---
 
-## 🧠 Engineering Focus
-
-I build **backend systems that are designed to scale, not just run.**  
-My work revolves around **API design, system performance, and cloud-native architecture**.
-
-I care about:
-- Reducing latency
-- Designing clean service layers
-- Writing maintainable backend logic
-- Turning ideas into production systems
-
----
-
-## ⚙️ What I Work With
-
-```bash
-Languages:      Java | Python | JavaScript | C++
-Backend:        Node.js | REST APIs | Appwrite | Firebase
-Systems:        Linux | Docker | CI/CD | Git
-Core CS:        DSA | OS | DBMS | Computer Networks
+```yaml
+profile:
+  role: "Backend Engineer (in progress)"
+  focus: ["Scalable Systems", "API Design", "Performance Optimization"]
+  mindset: "Build for scale before scale happens"
+  current_goal: "Software Engineer Internship"
